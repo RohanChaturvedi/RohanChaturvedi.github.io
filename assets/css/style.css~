@@ -83,7 +83,7 @@ p {
 }
 
 .head-line {
-    font-size: 70px;
+    font-size: 35px;
     padding-bottom: 50px;
     line-height: 65px;
     font-weight: 900;
